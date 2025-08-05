@@ -9,6 +9,7 @@ A basic AI-powered price predictor application built using Python, designed to p
 5. In development: Real-time price graph & auto-refresh functionality
 
 ----- Folder Structure
+
 bash
 Copy code
 AVA-AI.BCC/
