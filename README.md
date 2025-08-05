@@ -56,7 +56,10 @@ Deploy as a web app using Flask or Streamlit
 Pytho
 Scikit-learn
 Pandas & NumPy
-Concepts learned from Internshala C Programming Course
+[
+Concepts learned from: 1) Harvard CS50
+                        2) Princeton Bitvoin and Crypto-Currency technology
+]                        
 
 ---- License
 This project is open-source under the MIT License.
