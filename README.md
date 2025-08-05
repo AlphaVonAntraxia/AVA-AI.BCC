@@ -33,12 +33,14 @@ git clone https://github.com/AlphaVonAntraxia/AVA-AI.BCC.git
 cd AVA-AI.BCC
 Install dependencies:
 ]
+
 [
 bash
 Copy code
 pip install -r requirements.txt
 Run the predictor:
 ]
+
 [
 bash
 Copy code
@@ -61,7 +63,8 @@ Pandas & NumPy
 
 [
 Concepts learned from: 1) Harvard CS50
-                        2) Princeton Bitvoin and Crypto-Currency technology
+
+                       2) Princeton Bitvoin and Crypto-Currency technology
 ]                        
 
 ---- License
