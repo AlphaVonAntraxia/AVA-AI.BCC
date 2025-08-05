@@ -9,11 +9,8 @@ A basic AI-powered price predictor application built using Python, designed to p
 5. In development: Real-time price graph & auto-refresh functionality
 
 ----- Folder Structure
-
 bash
-
 Copy code
-
 AVA-AI.BCC/
 
 ├── dataset/               # CSV or dataset files
@@ -29,7 +26,6 @@ AVA-AI.BCC/
 
 ----- How to Run
 Clone the repository:
-
 [
 bash
 Copy code
@@ -37,14 +33,12 @@ git clone https://github.com/AlphaVonAntraxia/AVA-AI.BCC.git
 cd AVA-AI.BCC
 Install dependencies:
 ]
-
 [
 bash
 Copy code
 pip install -r requirements.txt
 Run the predictor:
 ]
-
 [
 bash
 Copy code
@@ -64,6 +58,7 @@ Deploy as a web app using Flask or Streamlit
 Pytho
 Scikit-learn
 Pandas & NumPy
+
 [
 Concepts learned from: 1) Harvard CS50
                         2) Princeton Bitvoin and Crypto-Currency technology
