@@ -55,8 +55,8 @@ Optimize model performance
 Deploy as a web app using Flask or Streamlit
 
 ----- Built With
-Pytho
-Scikit-learn
+Python,
+Scikit-learn,
 Pandas & NumPy
 
 [
