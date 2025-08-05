@@ -26,6 +26,7 @@ AVA-AI.BCC/
 
 ----- How to Run
 Clone the repository:
+
 [
 bash
 Copy code
@@ -62,9 +63,10 @@ Scikit-learn,
 Pandas & NumPy
 
 [
-Concepts learned from: 1) Harvard CS50
+Concepts learned from: 
+1) Harvard CS50
 
-                       2) Princeton Bitvoin and Crypto-Currency technology
+2) Princeton Bitvoin and Crypto-Currency technology
 ]                        
 
 ---- License
